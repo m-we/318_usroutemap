@@ -4,4 +4,4 @@ Uni project that finds the shortest route between two cities and draws it on a m
 * Hashtables
 * Priority queue using minheap
 * Shortest path algorithm
-* Taking coordinates and drawing them on a graph w/ a different scale
+* Taking coordinates and drawing them on a graphs w/ varying scale
