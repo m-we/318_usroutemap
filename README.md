@@ -1,4 +1,4 @@
-Finds the shortest route between two cities (by highway) and draws it on a map. This requires a number of files that I'm not sure I'm allowed to republish, so it's not going to work if you try to compile it. That being said, it demonstrates a number of concepts:
+Finds the shortest route between two cities (by highway) and draws it on a map. This requires a number of files that I'm not sure I'm allowed to republish, so it's not going to work if you try to run it. That being said, it demonstrates a number of concepts:
 
 * Reading text/binary files
 * Hashtables
